@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+h4{
+    margin-bottom: 5px;
+}
+
+button {
+    background-color:darkseagreen;
+    border-radius: 3px;
+    padding: 3px;
+}
+
+.branch select {
+    background-color:darkseagreen;
+    border-radius: 3px;
+    padding: 3px;
+    margin-top: 6px;
+}
+
+.box {
+    width: 300px;
+    height: 100px;
+    border: 7px solid black;
+    margin-top: 10px;
+    margin: 15px auto;
+    background-color: rgb(16, 150, 16);
+}
+
+.keyevents input {
+    padding: 3px;
+    margin: 10px auto;
+    border-radius: 3px;
+}
